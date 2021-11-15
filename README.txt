@@ -31,6 +31,11 @@ Easiest way to run these file is to upload the IPYNB and target CSV file to Goog
 Prequisite toolbox for MATLAB files are: 
 Statistics and Machine Learning Toolbox
 
+
+LICENSE INFORMATION:
+This code sets are released for Academic/Research purpose only. 
+
+
 1. CSV File structure
 
 File Name: Target_Amp_N_<num_points>.csv
